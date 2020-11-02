@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Albav1.1" id="4F0A9910-D1F3-ED89-290D-89C563A681F2" version="3.5">
+<createdBy>mohanrajpb</createdBy>
+<createdTime>2020-09-05 10:20:10 UTC</createdTime>
+<ownerDesignName>Alba_v1.1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>4F0A9910-D1F3-ED89-290D-89C563A681F2</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="4F0A9910-D1F3-ED89-290D-89C563A681F2">
+<designStoragePath>D:\DM\Albav1.1</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
